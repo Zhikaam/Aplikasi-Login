@@ -1,18 +1,18 @@
 /** @module Login-Script */
 /** 
-*Membuat Variabel loginFormElement untuk tampilan form.
+* Membuat Variabel loginFormElement untuk tampilan form.
 * @constant {HTMLElement}
 */
 const loginFormElement = document.querySelector('#loginForm');
 
 /** 
-*Membuat Variabel inputEmailElement untuk tampilan input email.
+* Membuat Variabel inputEmailElement untuk tampilan input email.
 * @constant {HTMLElement}
 */
 const inputEmailElement = document.querySelector('#inputEmail');
 
 /** 
-*Membuat variabel inputPaswordElement utuk tampilan input password.
+* Membuat variabel inputPaswordElement utuk tampilan input password.
 * @constant {HTMLElement}
 const inputPasswordElement = document.querySelector('#inputPassword');
  
